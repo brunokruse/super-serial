@@ -63,6 +63,10 @@ If you don't see any data comming in check for this error in your console.
 * If you're having trouble with program flow, scope, and classes, your outline will help you visualize the structure and relationships in your code.
 
 <br>
+<br>
+<img width="742" alt="Screenshot 2024-10-15 at 2 27 14 PM" src="https://github.com/user-attachments/assets/fee4434e-28a2-4cc0-b11e-7f4a3ac4e58d">
+<br>
+<br>
 
 ## Glossary
 * Node.js 
