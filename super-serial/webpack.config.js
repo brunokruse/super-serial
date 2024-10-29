@@ -14,6 +14,15 @@ module.exports = {
         exclude: /node_modules/,
         use: "babel-loader",
       },
+      {
+        test: require.resolve("p5"),
+        use: [
+          {
+            loader: "expose-loader",
+            options: { exposes: ["p5"] },
+          },
+        ],
+      },
     ],
   },
   plugins: [
